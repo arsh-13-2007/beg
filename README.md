@@ -8,7 +8,7 @@ this my first git repo
 <br>
 to add and commit the changes in it so we should do 
 <br>
-firstly git add ( file name)
+firstly git add ( file name) // git add .
 <br>
 secondly gti commit -m "some note"
 it push 
